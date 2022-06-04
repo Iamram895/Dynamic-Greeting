@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: aqua;
+  margin-top: 20vh;
+  margin: 0;
+  padding: 0%;
+  margin-top: 20vh;
+
+}
+div{
+  
+  background-color:rgb(225, 0, 255);
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  width: 50vw;
+  margin-left: 15vw;
+  justify-content:left
+}
+h1{
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+
